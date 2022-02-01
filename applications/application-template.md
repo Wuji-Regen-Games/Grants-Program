@@ -20,12 +20,13 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 ### Overview
 
 Please provide the following:
-
 - Wuji Games - Regenerative Gaming
 - WUJI GAMES and Earth Defenders
+
 Wuji Games is a Regenerative Rewards NFT engine for positive earth actions like planting trees. Wuji can integrate positive Environmental Action into all games and transactions utilizing our Regen NFT Engine & Metaverse. A portion of all in-game sales from the NFTs (i.e. Skins, Tools, Characters, Weapons, Land and in-game level ups) will go towards planting trees with EdenProjects.org and then NFTs representing the trees get minted. After each tree gets planted it will be uploaded to as a NFT, creating our Protocol- Proof-of-CHI. The CHI is a protocol where a record is created and stored using an ERC1155 NFT Token and Polygon- Ethereum's Internet of Blockchains,
  
 We have gamified this process with our Feature game Earth Defenders a Unity Metaverse with a focus on teaching Permaculture, offgrid techniques, home building and mini games around solving the SDGs. Wuji’s first Game is Earth Defenders will utilize Wuji’s Regenerative Gaming NFT Rewards Engine . Unity Metaverse (Gamesinteractive.co.uk - Siegeworlds.com) *WUJI UTILIZES SAME GAME COD
+
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama. - NFTs, Metavers, ReFi, DeFi, MarketPlace
 - An indication of why your team is interested in creating this project. To hel create a Regenerative Economy and help Defend the planet
 
@@ -63,26 +64,28 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 ## Team :busts_in_silhouette:
 
 ### Team members
-
-- Name of team leader
-- Names of team members
+Stephen Cutter - CE0
+Geoff McCabe - Co Founder
+Jake o'Connor - Director of Gaming
+Joshua Armah - Director of Technology
+Miguel Vallejo - Art Manager
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Stephen M. Cutter Jr.
+- **Contact Email:** Stephen@WujiGames.com
+- **Website:** WujiGames.com
 
-### Legal Structure
+### Legal Structure: Wyoming LLC.
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
-
+- **Registered Address:** 30 North Ghould St. Sheridan Wyoming
+- **Registered Legal Entity:** Wuji Games LLC.
+- 
 ### Team's experience
-
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+Stephen Cutter - Several years in Blockchain, Gaming and Sustainability
+Jake O'Connor - 10 Years of Game Coding and 3 years as a Gaming professor
+Joshua Armah - Data Scientist and Systems Architecht
+Geoff McCabe - Founder of top 150 Blockchain Diviproject.orh
 
 ### Team Code Repos
 
